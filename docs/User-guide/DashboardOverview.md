@@ -69,6 +69,8 @@ Ouce you have clicked on the News button, a News widget will appear.
 
 ![Widget of a joke](/Widgets/News.png)
 
+You can click on the source button (bottom right) to access the article on the original website.
+
 By clicking on the gear, in the top right corner of the News widget,<br/>
 You will be able to update the kind of News you want,<br/>
 Or delete the News widget.
