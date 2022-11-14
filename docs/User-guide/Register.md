@@ -14,6 +14,7 @@ sidebar_position: 1
 You authentificate yourself with :
 - [Email and password](#connect-with-eamil-and-password)
 - [Third Party Google](#connect-with-third-party)
+- [Third Party Facebook](#connect-with-third-party-facebook)
 
 
 ### 1 Connect with eamil and password
@@ -31,6 +32,11 @@ Fill the 3 inputs like that :
 
 Click on the button `Sign In with Google`. A page will be prompted select the account you to Register with, and done.
 
+
+
+### Connect with Third party Facebook
+
+The connection with Facebook doesn't work in local.
 
 ### Waiting for confirmation
 Once you have complete the first step, you will have this screen 
