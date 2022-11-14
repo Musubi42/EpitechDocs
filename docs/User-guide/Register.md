@@ -44,7 +44,7 @@ Once you have complete the first step, you will have this screen
 
 ## 2 Confirm your authentification
 
-Whatever method you have choosen to authentificate yourself, you will receive an email [^1]. You have to click on the button `Confirm authentification`. You will be redirected to the Dashboard.
+Whatever method you have choosen to authentificate yourself, you will receive an email [^1]. You have to click on the button `CONFIRM EMAIL`. You will be redirected to the Dashboard.
 
 
 ## 3 You can use the useless dashboard
