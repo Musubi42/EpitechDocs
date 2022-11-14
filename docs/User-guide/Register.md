@@ -24,7 +24,7 @@ You authentificate yourself with :
 Fill the 3 inputs like that :
 - Name : Any alphanumerical character of your choice.
 - Email : Enter an email adress you have access to, because in order to complete the anthentification process, you'll have to click a link in an email we will send you.
-- Password : Any alphanumerical character, and at least 8 characters.
+- Password : Any alphanumerical character, and at least 8 characters, one uppercase letter and one numerical character.
 
 ### Connect with Third party
 
