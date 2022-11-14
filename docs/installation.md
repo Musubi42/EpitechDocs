@@ -1,7 +1,12 @@
-# Useless Dashboard Git repo
+---
+sidebar_position: 1
+---
 
-Link to the Epitech Project, T-JAV-501-LIL-5-1-dashboard :
-[Dashboard](https://github.com/EpitechMscProPromo2025/T-JAV-501-LIL-5-1-dashboard-raphael.thibaut/tree/main)
+
+# Installation
+
+Github link to the Epitech Project, T-JAV-501-LIL-5-1-dashboard :
+[useless dashboard](https://github.com/EpitechMscProPromo2025/T-JAV-501-LIL-5-1-dashboard-raphael.thibaut/tree/main)
 
 
 ## Download the project
@@ -32,7 +37,7 @@ From the root of the project, go to :
 useless_dashboard/public/Register
 ```
 
-Open the index.html file and there you can start using the app
+Open the `index.html` file and there you can start using the app
 
 
 
