@@ -21,6 +21,7 @@ A complete list of all externals APIs we've used can be found [here](https://doc
 
 ### Firebase auth
 
+All triggers functions are avaible at this path `useless_dashboard/api/gcp`, there are written in Java.
 ![Firebase auth](https://miro.medium.com/max/1200/0*yEoRjmyk4dOuidmF)
 
 To authentified an user we get credentials from him. These credentials can be email/password, or an OAuth Token from third provider (Google, Facebook, ...). We then pass those credentials to Firebase, which take care to verify those credentials. <br/> <br/>
