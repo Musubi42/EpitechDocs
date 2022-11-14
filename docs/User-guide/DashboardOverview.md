@@ -15,6 +15,13 @@ You can choose between 4 services :
 - [Stocks](#stocks)
 - [Map](#map)
 
+### Universal Params Timer
+
+All the widget have timer to refresh (10 minutes, 30 minutes, 60 minutes)
+
+
+![Timer param](/Widgets/JokesParam.png)
+
 ## Jokes
 
 To add a Joke hover the Jokes button, when the button turns blueish, it means you can click on it.
