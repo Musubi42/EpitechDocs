@@ -1,6 +1,6 @@
 version: '3'
 services:
-  EpiDocs:
+  epidocs:
     build: .
     ports:
       - "3042:3042"
