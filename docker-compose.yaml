@@ -1,0 +1,15 @@
+version: '3'
+services:
+  EpiDocs:
+    build: .
+    ports:
+      - "3042:3042"
+    volumes:
+      - /opt/portainer/Epitech/EpiDocs:/home/node/app/
+    restart: unless-stopped
+    networks:
+      - npm_network
+
+networks:
+  npm_network:
+    driver: bridge
