@@ -1,11 +1,12 @@
 version: '3'
 services:
   epidocs:
-    image: musubi42/epidocs:v0.0.1
+    container_name: epidocs
+    image: musubi42/epidocs:v0.0.3
     ports:
       - "3042:3042"
-    volumes:
-      - /opt/portainer/Epitech/EpiDocs:/home/node/app/
+    # volumes:
+      # - .:/home/node/app/
     restart: unless-stopped
     networks:
       - npm_network
