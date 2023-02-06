@@ -2,7 +2,7 @@ name: Update the docs folder
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "epidocs" ]
 
 jobs:
   update:
