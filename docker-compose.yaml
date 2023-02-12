@@ -4,7 +4,7 @@ services:
     container_name: epidocs
     image: musubi42/epidocs:v0.0.3
     ports:
-      - "3042:3042"
+      - 4205:3042
     # volumes:
       # - .:/home/node/app/
     restart: unless-stopped
