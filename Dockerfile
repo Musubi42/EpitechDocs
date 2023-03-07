@@ -8,6 +8,6 @@ COPY --chown=node:node . /home/node/docusaurus/
 
 RUN npm install
 
-EXPOSE 3042 
+EXPOSE 3000
 
 CMD ["npm", "start"]
