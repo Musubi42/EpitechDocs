@@ -8,6 +8,8 @@ title: User documentation
 
 ## Connect your Reddit account to RedSync
 
+![login](/img/RedSync/connexion_page.png)
+
 ![login](/img/RedSync/login.png)
 
 Use your Reddit credentials to connect to RedSync.

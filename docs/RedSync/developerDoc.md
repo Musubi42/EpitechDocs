@@ -61,12 +61,22 @@ Go to your Options > System > Developer options > USB debugging
 Install adb to enable debugging between your mobile device and your computer.
 [Follow this link to do it](https://www.xda-developers.com/install-adb-windows-macos-linux/)
 
+To check if your device is correctly connected to your computer and well configured, run
+
+```bash
+flutter devices
+```
+
+You should see something like this, a line with your phone 
+
+![login](/img/RedSync/flutter_devices.png)
+
 ### Run the application
 
 Ounce the prerequisites are fullfilled, run this command to start the application
 
 ```bash
-flutter run -t lib/Login.dart
+flutter run 
 ```
 
-We use the parameter `-t lib/Login.dart` so we can tells flutter to modify the entrypoint of the app, changing `main.dart` (the default entrypoint) by `Login.dart`
+If your phone is correctly connected to your computer, the app should automatically open your phone

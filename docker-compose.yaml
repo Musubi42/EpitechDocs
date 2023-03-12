@@ -2,7 +2,7 @@ version: '3'
 services:
   epidocs:
     container_name: epidocs
-    image: musubi42/epidocs:v0.0.12
+    image: musubi42/epidocs:v0.0.13
     ports:
       - 4200:4200
     volumes:
